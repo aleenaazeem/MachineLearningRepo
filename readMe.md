@@ -2,3 +2,4 @@ This file will contain notes and assignments to the machine learning concepts le
 3
 lets do this
 KNN
+Confusion Matrix
