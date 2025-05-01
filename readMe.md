@@ -3,3 +3,4 @@ This file will contain notes and assignments to the machine learning concepts le
 lets do this
 KNN
 Confusion Matrix
+Recall.. Precision.. Recal..Sensitivity.. F1 score
