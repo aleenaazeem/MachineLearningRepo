@@ -7,3 +7,4 @@ Recall.. Precision.. Recal..Sensitivity.. F1 score
 confusion matrix
 Bag of words
 99
+,....
