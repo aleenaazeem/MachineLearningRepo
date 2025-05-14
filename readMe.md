@@ -5,4 +5,4 @@ KNN
 Confusion Matrix
 Recall.. Precision.. Recal..Sensitivity.. F1 score
 confusion matrix
-Bag of words
+Bag of words.
