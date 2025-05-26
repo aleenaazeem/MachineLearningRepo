@@ -4,6 +4,6 @@ lets do this
 KNN
 Confusion Matrix
 Recall.. Precision.. Recal..Sensitivity.. F1 score
-confusion matrix
+confusion matrix..
 
 rr
