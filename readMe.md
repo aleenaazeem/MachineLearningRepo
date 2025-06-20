@@ -7,3 +7,4 @@ Recall.. Precision.. Recal..Sensitivity.. F1 score
 confusion matrix. .
 Documentation
 Logestic Regression
+I did NLP, Generative AI, Computer Vision and the the way NLP works. How transformers work. How they are different from the conventional methodologies
