@@ -5,7 +5,7 @@ KNN
 Confusion Matrix
 
 Recall.. Precision.. Recal..Sensitivity.. F1 score
-confusion matrix. .
+
 Documentation
 Logestic Regression
 
